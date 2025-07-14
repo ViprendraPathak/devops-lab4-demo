@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello By VIP" );
+        System.out.println( "Hello From VIP!" );
     }
 }
 // New feature added
